@@ -52,4 +52,4 @@
 
 
 ### 🤝🏻 &nbsp;Contact
-<a href="mailto:theamabile@gmail.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:theamabile@gmail.com"><img src="https://img.shields.io/badge/-theamabile@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
