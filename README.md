@@ -2,11 +2,11 @@
 ![https://komarev.com/ghpvc/?username=theamabile](https://komarev.com/ghpvc/?username=theamabile)
 
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> &nbsp;풀스택 개발자 정혜진입니다. ☺️
+## �👨‍💻 &nbsp;풀스택 개발자 정혜진입니다. ☺️
 
 ✔️ &nbsp;새로운 기술들을 직접 사용해보며 연구하는 것을 좋아합니다.\
 ✔️ &nbsp;최근에는 SpringBoot JPA와 ElasticSearch(ELK Stack)에 관심이 있습니다.💘\
-✔️ &nbsp;사용 편리성을 위한 UI/UX에 관심이 많으며, 다수의 프로젝트에서 디자인 직군과의 커뮤니케이션을 담당하였습니다.\
+✔️ &nbsp;편의성 향상을 위한 UI/UX에 관심이 많으며, 다수의 프로젝트에서 디자이너와의 커뮤니케이션을 담당하였습니다.\
 ✔️ &nbsp;C++ 기반 UnrealEngine4, Unity3D에 대한 경험이 있어 성능 개선 및 객체 모델링에 익숙합니다.\
 ✔️ &nbsp;커뮤니케이션 및 지식 공유를 위한 문서 작성 능력이 좋습니다.\
 ✔️ &nbsp;제 <a href="https://www.notion.so/7501076f2e8b40a7b5ec16774fabd330">포트폴리오</a>에서 더 많은 프로젝트를 확인하실 수 있습니다😘
