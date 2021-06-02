@@ -2,7 +2,7 @@
 ![https://komarev.com/ghpvc/?username=theamabile](https://komarev.com/ghpvc/?username=theamabile)
 
 
-## �👨‍💻 &nbsp;풀스택 개발자 정혜진입니다. ☺️
+## 👨‍💻 &nbsp;풀스택 개발자 정혜진입니다. ☺️
 
 ✔️ &nbsp;새로운 기술들을 직접 사용해보며 연구하는 것을 좋아합니다.\
 ✔️ &nbsp;최근에는 SpringBoot JPA와 ElasticSearch(ELK Stack)에 관심이 있습니다.💘\
