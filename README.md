@@ -37,7 +37,7 @@
             <img src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira" />
             <img src="https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=Confluence" />
         </li>
-        <li>=
+        <li>
             <img src="https://img.shields.io/badge/-UnrealEngine4-05122A?style=flat&logo=Unreal-Engine" />
             <img src="https://img.shields.io/badge/-Unity3D-05122A?style=flat&logo=Unity" />
         </li>
